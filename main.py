@@ -121,21 +121,21 @@ for i in range(len(day_label)):
 
 
 drawCourse(courses["ECE311H1F"], "L0101", courseColors[0])
-drawCourse(courses["ECE311H1F"], "P0103", courseColors[0])
-drawCourse(courses["ECE311H1F"], "T0102", courseColors[0])
+drawCourse(courses["ECE311H1F"], "P0101", courseColors[0])
+drawCourse(courses["ECE311H1F"], "T0101", courseColors[0])
 
 drawCourse(courses["ECE361H1F"], "L0101", courseColors[1])
 drawCourse(courses["ECE361H1F"], "P0101", courseColors[1])
-drawCourse(courses["ECE361H1F"], "T0102", courseColors[1])
+drawCourse(courses["ECE361H1F"], "T0101", courseColors[1])
 
 drawCourse(courses["ECE302H1F"], "L0101", courseColors[2])
-drawCourse(courses["ECE302H1F"], "T0104", courseColors[2])
+drawCourse(courses["ECE302H1F"], "T0101", courseColors[2])
 
 drawCourse(courses["ECE344H1F"], "L0101", courseColors[3])
-drawCourse(courses["ECE344H1F"], "P0102", courseColors[3])
+drawCourse(courses["ECE344H1F"], "P0101", courseColors[3])
 
 drawCourse(courses["ECE345H1F"], "L0101", courseColors[4])
-drawCourse(courses["ECE345H1F"], "T0104", courseColors[4])
+drawCourse(courses["ECE345H1F"], "T0101", courseColors[4])
 
 
 
